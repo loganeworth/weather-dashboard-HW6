@@ -1,0 +1,7 @@
+.text-big {
+    font-size: 180%;
+}
+
+.btn, #search-container .form-group {
+    width: 100%;
+}
