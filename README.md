@@ -4,7 +4,7 @@
 
 ## Installation
 
-
+There is no installation process.
 
 ## Screen-Capture
 
