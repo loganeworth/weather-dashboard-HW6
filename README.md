@@ -4,9 +4,13 @@
 
 ## Installation
 
+
+
 ## Screen-Capture
 
 ## Usage
+
+This site will be used by anyone who wants to see the current weather for a city or a five day forecast. This forecast include temperature, humidity, and wind speed.
 
 ## Credits
 
