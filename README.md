@@ -23,5 +23,7 @@ I would like to thank my teachers at the University of Minnesota's Full Stack Co
 ## Links
 
 Deployed page:
+https://loganeworth.github.io/weather-dashboard-HW6/
 
 Github Repository:
+https://github.com/loganeworth/weather-dashboard-HW6
